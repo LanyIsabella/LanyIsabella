@@ -4,7 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanyIsabella&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanyIsabella&layout=compact&langs_count=7&theme=swift"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Lany-gif" height="180" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/879176175962972160/1032319753320136714/ezgif.com-gif-maker_1.gif">
