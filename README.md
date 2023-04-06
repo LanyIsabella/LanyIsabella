@@ -1,4 +1,4 @@
-## Oii, me chamo Lany! Seja bem-vindo ao meu perfil!
+## Oii, me chamo Lany! Seja bem-vindo ao meu perfil! // Hello, I'm Lany! Welcome to my profile!
 <div align="center">
   <a href="https://github.com/LanyIsabella">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanyIsabella&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
